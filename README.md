@@ -12,7 +12,7 @@
 # [eNTryOS]
 ### A free NT operating system
 
-**Built out of love for the NT architecture. Windows® 11 compatible, for amd64, arm64 and riscv64.**
+**Built out of FURY for the NT kernel not having my sound and wifi drivers. Windows® 11 compatible, for amd64, arm64 and riscv64.**
 
 [![License: GPL 3.0](https://img.shields.io/badge/License-GPL_3.0-0161B6?style=for-the-badge&logo=gnu&logoColor=white)](#license)
 
